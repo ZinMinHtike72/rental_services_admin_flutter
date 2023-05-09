@@ -7,6 +7,7 @@ import 'package:rental_services/components/alert_dialog.dart';
 import 'package:rental_services/screens/Authentication/login_screen.dart';
 import 'package:rental_services/reuseable_functions/reuseable_function.dart';
 import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
+import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
 class Profile_Manage_Controller{
   bool status =  false;
   String? profile;
